@@ -2,7 +2,7 @@ Intalação do aplicativo:
 
 1 - Faça o download MarvelHeroespart1.rar e MarvelHeroespart2.rar
 
-2 - Copie o arquivo "MarvelHeroes.apk" para um dispositivo móvel com sistema Android
+2 - Extraia e copie o arquivo "MarvelHeroes.apk" para um dispositivo móvel com sistema Android
 
 3 - Pelo dispositivo, localize e execute o arquivo
 
