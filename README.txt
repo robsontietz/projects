@@ -1,22 +1,24 @@
-IntalaÁ„o do aplicativo:
+Intala√ß√£o do aplicativo:
 
-1 - FaÁa o download MarvelHeroes.rar e copie o arquivo "MarvelHeroes.apk" para um dispositivo mÛvel com sistema Android
+1 - Fa√ßa o download MarvelHeroespart1.rar e MarvelHeroespart2.rar
 
-2 - Pelo dispositivo, localize e execute o arquivo
+2 - Copie o arquivo "MarvelHeroes.apk" para um dispositivo m√≥vel com sistema Android
 
-3 - Se o dispositivo questionar se o arquivo È confi·vel clique em "sim"
+3 - Pelo dispositivo, localize e execute o arquivo
 
-4 - Um atalho da aplicaÁ„o foi criado, clique no mesmo para abrir a aplicaÁ„o
+4 - Se o dispositivo questionar se o arquivo √© confi√°vel clique em "sim"
+
+5 - Um atalho da aplica√ß√£o foi criado, clique no mesmo para abrir a aplica√ß√£o
 
 
 Sobre o aplicativo:
 
-1 - O App lista meus 3 herÛis favoritos
+1 - O App lista meus 3 her√≥is favoritos
 
-2 - Ao clicar em um deles È listado sua descriÁ„o e as suas 5 primeiras histÛrias
+2 - Ao clicar em um deles √© listado sua descri√ß√£o e as suas 5 primeiras hist√≥rias
 
-3 - Ao clicar na histÛria È enviado para o site da Marvel
+3 - Ao clicar na hist√≥ria √© enviado para o site da Marvel
 
 4 - A linguagem utilizada foi Flutter/Dart
 
-5 - BÙnus1: no menu È possÌvel pesquisar por qualquer outro herÛi da Marvel e adicionar aos meus 3 favoritos
+5 - B√¥nus1: no menu √© poss√≠vel pesquisar por qualquer outro her√≥i da Marvel e adicionar aos meus 3 favoritos
