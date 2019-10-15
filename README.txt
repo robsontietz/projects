@@ -1,24 +1,11 @@
-Intalação do aplicativo:
+Repositório dos meus projetos em Flutter
 
-1 - Faça o download MarvelHeroespart1.rar e MarvelHeroespart2.rar
+Robson Tietz de Oliveira
 
-2 - Extraia e copie o arquivo "MarvelHeroes.apk" para um dispositivo móvel com sistema Android
+Graduado em Tec. Em Processamento de Dados - UCPEL 
+Pós-graduado em Qualidade de Software - UNISINOS
+• Experiência em análise, desenvolvimento e teste de software desde o ano 2000
+• Experiência em desenvolvimento de aplicativos para Android e iOS
+• Experiência com banco de dados e API
 
-3 - Pelo dispositivo, localize e execute o arquivo
-
-4 - Se o dispositivo questionar se o arquivo é confiável clique em "sim"
-
-5 - Um atalho da aplicação foi criado, clique no mesmo para abrir a aplicação
-
-
-Sobre o aplicativo:
-
-1 - O App lista meus 3 heróis favoritos
-
-2 - Ao clicar em um deles é listado sua descrição e as suas 5 primeiras histórias
-
-3 - Ao clicar na história é enviado para o site da Marvel
-
-4 - A linguagem utilizada foi Flutter/Dart
-
-5 - Bônus1: no menu é possível pesquisar por qualquer outro herói da Marvel e adicionar aos meus 3 favoritos
+LinkedIn: www.linkedin.com/in/robsontietz
